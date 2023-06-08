@@ -1,4 +1,7 @@
-# alien-game-dio
+~ Alien Game 👽
+
 Project developed during Dio's JavaScript Game Developer bootcamp.
 
-![image](https://user-images.githubusercontent.com/38231334/140666365-d1c0bad3-b907-48fd-be93-10045c368840.png)
+☁️ https://luanasa.github.io/alien-game-dio/index.html
+
+![image](https://github.com/luanasa/alien-game-dio/assets/38231334/f8e8333b-48da-49b9-9680-0cda8fb0f4f9)
